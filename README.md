@@ -5,5 +5,5 @@ Samples of the interfaces are available at
 
 https://staff.washington.edu/sbng/metrical/piano_sample
 
-https://staff.washington.edu/sbng/metrical/tap_sample
+https://staff.washington.edu/sbng/metrical/taps_sample
 
